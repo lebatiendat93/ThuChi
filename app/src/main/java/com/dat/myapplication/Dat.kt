@@ -1,3 +1,6 @@
 package com.dat.myapplication
 
-class Dat 
+class Dat {
+    val dat2 = ""
+    val dat1 = 1
+}
