@@ -1,2 +1,4 @@
-package com.dat.myapplication;public class Dat {
+package com.dat.myapplication;
+
+public class Dat {
 }
