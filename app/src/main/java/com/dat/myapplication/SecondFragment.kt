@@ -13,6 +13,7 @@ import com.dat.myapplication.databinding.FragmentSecondBinding
  */
 class SecondFragment : Fragment() {
 
+    private var data = ""
     private var _binding: FragmentSecondBinding? = null
 
     // This property is only valid between onCreateView and
